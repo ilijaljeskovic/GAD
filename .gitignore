@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Virtual env
+venv/
+.venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+*.exe
+*.log
+*.aux
+*.out
+*.toc
+*.pdf
+
+# Temporary files
+temp/
