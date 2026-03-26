@@ -1,0 +1,2 @@
+# GAD
+Latex Manual Generator
